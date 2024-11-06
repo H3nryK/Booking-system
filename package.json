@@ -14,5 +14,5 @@
   "type": "module",
   "workspaces": [
     "src/booking_frontend"
-  ]
+  ]  
 }
